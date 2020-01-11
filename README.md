@@ -22,7 +22,7 @@ EXAMPLE 1:
 Input "node bamazonCustomer.js" to display the list of products with their information. Then enter "5" for product 5 (flashlight). Then enter quantity "21" to see the results. Notice that you will receive an error for entering a quantity which exceeds the in-store quantity, and you will be asked to start the order over.
 
 
-![2020-01-11](https://user-images.githubusercontent.com/55059602/72210303-d73f6080-347e-11ea-8a06-83e86252f138.png)
+![2020-01-11 (4)](https://user-images.githubusercontent.com/55059602/72210349-9136cc80-347f-11ea-8a2d-f9d22dd22874.png)
 
 
 EXAMPLE 2:
