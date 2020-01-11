@@ -27,7 +27,7 @@ Input "node bamazonCustomer.js" to display the list of products with their infor
 
 EXAMPLE 2:
 
-Input "node bamazonCustomer.js". Enter "5" for product 5 again. This time enter "3" to the see the results. Since you have entered a quantity that can be met, 
+Input "node bamazonCustomer.js". Enter "5" for product 5 again. This time enter "3" to the see the results. Since you have entered a quantity that can be met, confirmation of your purchase and the total amount spent on your purchase will be displayed.
 
 ![2020-01-11 (6)](https://user-images.githubusercontent.com/55059602/72210390-4073a380-3480-11ea-845e-e6e87f36987e.png)
 
