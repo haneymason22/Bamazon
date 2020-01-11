@@ -19,7 +19,7 @@ The Bamazon app will display 10 items available in a Bamazon store.
 
 EXAMPLE 1:
 
-Input "node bamazonCustomer.js" to display the list of products with their information. Then enter "5" for product 5 (flashlight). Then enter quantity "21" to see the results. Notice that you will receive an error for entering a quantity which exceeds the in-store quantity, and you will be asked to start the order over.
+Input "node bamazonCustomer.js" to display the list of products with their information. Then enter "5" for product 5 (fishing pole). Then enter quantity "21" to see the results. Notice that you will receive an error for entering a quantity which exceeds the in-store quantity, and you will be asked to start the order over.
 
 
 ![2020-01-11 (4)](https://user-images.githubusercontent.com/55059602/72210349-9136cc80-347f-11ea-8a2d-f9d22dd22874.png)
@@ -29,7 +29,7 @@ EXAMPLE 2:
 
 Input "node bamazonCustomer.js". Enter "5" for product 5 again. This time enter "3" to the see the results. Since you have entered a quantity that can be met, 
 
-![2019-12-18 (6)](https://user-images.githubusercontent.com/55059602/71145227-79ed2200-21e6-11ea-8dd3-940352e7edef.png)
+![2020-01-11 (6)](https://user-images.githubusercontent.com/55059602/72210390-4073a380-3480-11ea-845e-e6e87f36987e.png)
 
 
 ## TECHNOLOGIES USED
