@@ -1,0 +1,41 @@
+## Bamazon- Online Customer Database
+
+## ABOUT BAMAZON
+The Bamazon app will display 10 items available in a Bamazon store.
+
+## HOW TO USE LIRI
+
+* Clone the repo to your terminal
+* Run npm Install
+* Cd into the folder you just created
+* npm Install mysql
+* npm Install inquirer
+* Input command node bamazonCustomer.js
+* Read the displayed information on the items (including the product name, price, and in-store quanitity).
+* Opt to initialize and order for your preferred product by inputting the product's id.
+* Specify the quantity of the product you wish to buy.
+
+## EXAMPLES
+
+EXAMPLE 1:
+
+Input "node bamazonCustomer.js" to display the list of products with their information. Then enter "5" for product 5 (flashlight). Then enter quantity "21" to see the results. Notice that you will receive an error for entering a quantity which exceeds the in-store quantity, and you will be asked to start the order over.
+
+
+![2020-01-11](https://user-images.githubusercontent.com/55059602/72210303-d73f6080-347e-11ea-8a06-83e86252f138.png)
+
+
+EXAMPLE 2:
+
+Input "node bamazonCustomer.js". Enter "5" for product 5 again. This time enter "3" to the see the results. Since you have entered a quantity that can be met, 
+
+![2019-12-18 (6)](https://user-images.githubusercontent.com/55059602/71145227-79ed2200-21e6-11ea-8dd3-940352e7edef.png)
+
+
+## TECHNOLOGIES USED
+
+* Javascript
+* Node.js
+* Node Packages:
+    * Inquirer
+    * MySQL
