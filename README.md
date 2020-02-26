@@ -3,7 +3,7 @@
 ## ABOUT BAMAZON
 The Bamazon app will display 10 items available in a Bamazon store.
 
-## HOW TO USE LIRI
+## HOW TO USE BAMAZON
 
 * Clone the repo to your terminal
 * Run npm Install
